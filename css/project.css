@@ -94,8 +94,8 @@ h5 {
   color: #5B524A;
 }
 #log {
-  height: 98px;
-  width: 98px;
+  height: 75px;
+  width: 75px;
 }
 /*Flex-box nav*/
 .flex-container {
@@ -406,7 +406,7 @@ body {
   background-repeat: no-repeat, no-repeat;
   padding-bottom: 30px;
   padding-top: 30px;
-}
+}f10
 .wireframesBackgroundS {
   background: url(../images/grid.png), #F15A24;
   background-size: 98% 100%;
@@ -704,8 +704,8 @@ body {
 }
 @media screen and (max-width: 1401px) {
   #log {
-    height: 40%;
-    width: 40%;
+    height: 60%;
+    width: 60%;
   }
   .mock1 {
     width: 90%;
@@ -930,8 +930,8 @@ body {
     font-size: 3rem;
   }
   #log {
-    height: 40%;
-    width: 40%;
+    height: 55%;
+    width: 55%;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 5px;
@@ -1292,8 +1292,8 @@ body {
 }
 @media screen and (max-width: 674px) {
   #log {
-    height: 30%;
-    width: 30%;
+    height: 45%;
+    width: 45%;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 5px;
@@ -2011,7 +2011,7 @@ body {
     padding-top: 55px;
     padding-left: 10px;
   }
-  @media screen and (max-width: 1177px) {
+  @media screen and (max-width: fpx) {
     .overviewS {
       grid-column: 4 / 10;
       text-align: center;

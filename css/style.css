@@ -73,8 +73,8 @@ html {
 }
 
 .logoGrey {
-  height: 98px;
-  width: 98px;
+  height: 75px;
+  width: 75px;
 }
 
 /*Typography */
@@ -367,8 +367,8 @@ body i {
   font-size: 20px;
 }
 #log {
-  height: 98px;
-  width: 98px;
+  height: 75px;
+  width: 75px;
 }
 .filler {
   display: flex;
@@ -421,8 +421,8 @@ body i {
     font-size: 8rem;
   }
   #log {
-    height: 40%;
-    width: 40%;
+    height: 65%;
+    width: 65%;
   }
   .filler {
     height: 235px;
@@ -941,8 +941,8 @@ body i {
     color: #ffffff;
   }
   #log {
-    height: 30%;
-    width: 30%;
+    height: 45%;
+    width: 45%;
     padding-top: 10px;
     padding-bottom: 5px;
     padding-left: 10px;

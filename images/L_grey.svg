@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 20</title>
+    <g id="Artboard-Copy-20" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#747474" cx="49" cy="49" r="49"></circle>
+        <text id="z" font-family="Apple-Chancery, Apple Chancery" font-size="126" font-weight="normal" fill="#FFFFFF">
+            <tspan x="21" y="82">z</tspan>
+        </text>
+        <circle id="Oval" fill="#FFFFFF" transform="translate(68.000000, 15.000000) rotate(23.000000) translate(-68.000000, -15.000000) " cx="68" cy="15" r="6"></circle>
+    </g>
+</svg>
