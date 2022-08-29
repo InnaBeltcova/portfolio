@@ -1,4 +1,3 @@
-/*TABS STYLE*/
 * {
   box-sizing: border-box;;
 }
@@ -69,7 +68,7 @@ html {
 .developed {
   margin-top: 50px;
   font-size: 12px;
-  color: #5B524A;
+  color: #747474;
 }
 
 .logoGrey {
@@ -115,7 +114,7 @@ h5 {
   text-align: center;
   line-height: 4.5rem;
   font-weight: lighter;
-  color: #5B524A;
+  color: #747474;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -135,7 +134,7 @@ h5 {
   grid-column: 1 / 13;
   font-size: 3.2rem;
   font-weight: lighter;
-  color: #5B524A;
+  color: #747474;
 }
 .redHead {
   color: #D91D1D;
@@ -143,7 +142,7 @@ h5 {
   padding-right: 20px;
 }
 .psy {
-  color: #5B524A;
+  color: #747474;
   line-height: 3rem;
 }
 
@@ -164,12 +163,12 @@ h5 {
 h5.m2 {
   padding-right: 20px;
   font-weight: lighter;
-  color: #5B524A;
+  color: #747474;
 }
 h5.m3 {
   padding-left: 10px;
   font-weight: lighter;
-  color: #5B524A;
+  color: #747474;
 }
 h5.m5 {
   padding-right: 20px;
@@ -209,8 +208,7 @@ a:link {
 .rotate {
   grid-column: 1 / 1;
   transform: rotate(-90deg) translateY(1%) translateX(1%);
-  color: #5B524A;
-  opacity: 0.5;
+  color: #747474;
   font-weight: normal;
 }
 .so {
@@ -222,6 +220,7 @@ a:link {
   flex-direction: column-reverse;
   justify-content: center;
   align-items: flex-end;
+  gap: 24px;
 }
 .secondGrid {
   grid-column: 2 / 7;
@@ -306,7 +305,7 @@ button.btnCaseS {
 }
 .uxAbout {
   grid-column: 3 / 11;
-  color: #5B524A;
+  color: #747474;
   line-height: 3.5rem;
   font-weight: lighter;
   padding-right: 15px;
@@ -355,7 +354,7 @@ button.btnCaseS {
 .socialC {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  gap: 24px;
 }
 .whole {
   grid-column: 3 / 11;
@@ -503,12 +502,12 @@ body i {
     grid-column: 1 / 8;
     font-size: 3.2rem;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
   }
   .intro {
     text-align: center;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
     padding-bottom: 80px;
   }
   .introBig {
@@ -526,12 +525,12 @@ body i {
   h5.m2 {
     padding-right: 10px;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
   }
   h5.m3 {
     padding-left: 10px;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
   }
   h5.m5 {
     padding-right: 10px;
@@ -550,7 +549,7 @@ body i {
   .social {
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
+    gap: 24px;
     align-items: center;
   }
   .mail {
@@ -621,7 +620,7 @@ body i {
   .socialC {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    gap: 24px;
     padding-top: 0px;
     padding-bottom: 10px;
   }
@@ -691,12 +690,12 @@ body i {
     grid-column: 1 / 7;
     font-size: 3.2rem;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
   }
   .intro {
     text-align: center;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
     padding-bottom: 80px;
   }
   #introsm {
@@ -709,13 +708,13 @@ body i {
   h5.m2 {
     padding-right: 10px;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
     font-size: 1.6rem;
   }
   h5.m3 {
     padding-left: 10px;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
     font-size: 1.6rem;
   }
   h5.m5 {
@@ -738,6 +737,7 @@ body i {
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
+    gap: 24px;
   }
   .mail {
     padding-left: 30px;
@@ -809,9 +809,9 @@ body i {
   .socialC {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     padding-top: 0px;
     padding-bottom: 10px;
+    gap: 24px;
   }
 }
 @media screen and (max-width: 588px) {
@@ -889,13 +889,13 @@ body i {
     grid-column: 1 / 9;
     font-size: 3.2rem;
     font-weight: lighter;
-    color: #5B524A;
+    color: #747474;
   }
   .intro {
     text-align: center;
     line-height: 1.6;
     font-weight: normal;
-    color: #5B524A;
+    color: #747474;
     padding-bottom: 80px;
   }
   .introBig {
@@ -918,14 +918,14 @@ body i {
     padding-left: 5px;
     font-size: 1.6rem;
     font-weight: normal;
-    color: #5B524A;
+    color: #747474;
   }
   h5.m3 {
     padding-left: 5px;
     padding-right: 10px;
     font-size: 1.6rem;
     font-weight: normal;
-    color: #5B524A;
+    color: #747474;
   }
   h5.m5 {
     padding-left: 5px;
@@ -952,6 +952,7 @@ body i {
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
+    gap: 24px;
   }
   .mail {
     padding-left: 30px;
@@ -1050,9 +1051,9 @@ body i {
   .socialC {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
     padding-top: 0px;
     padding-bottom: 10px;
+    gap: 24px;
   }
 }
