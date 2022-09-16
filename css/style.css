@@ -210,6 +210,7 @@ a:link {
   transform: rotate(-90deg) translateY(1%) translateX(1%);
   color: #747474;
   font-weight: normal;
+  opacity: 0;
 }
 .so {
   grid-column: 12 / 12;
@@ -269,10 +270,22 @@ button.btnCaseH {
   background: #007d8a;
   color: #ffffff;
   border-radius: 9px;
-  padding: 15px 21px;
   cursor: pointer;
 }
-
+button.caseStBtnEdu {
+  width: 178px;
+  height: 50px;
+  text-align: center;
+  line-height: 1em;
+  border: 2px solid white;
+  font-size: 2rem;
+  grid-column: 2 / 4;
+  border-color: #ffffff;
+  background: #800080;
+  color: #ffffff;
+  border-radius: 9px;
+  cursor: pointer;
+}
 button.btnCaseS {
   width: 181px;
   height: 50px;
@@ -301,6 +314,11 @@ button.btnCaseS {
 .btnCaseH:hover {
   background: #ffffff;
   color: #007d8a;
+  cursor: pointer;
+}
+.caseStBtnEdu:hover {
+  background: #ffffff;
+  color: #800080;
   cursor: pointer;
 }
 .uxAbout {
@@ -336,6 +354,12 @@ button.btnCaseS {
 }
 #section2aa {
   background: url(../images/docPic.png), url(../images/grid.png), #007d8a;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-size: 70%, 98%, cover;
+  background-position: right, center, center;
+}
+#sectionLenovo {
+  background: url(../images/gradPic.png), url(../images/grid.png), #800080;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-size: 70%, 98%, cover;
   background-position: right, center, center;
@@ -472,6 +496,12 @@ body i {
   }
   #section2aa {
     background: url(../images/docPic.png), url(../images/grid_mobile.png), #007d8a;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 70%, 95% 100%, cover;
+    background-position: right, center, center;
+  }
+  #sectionLenovo {
+    background: url(../images/gradPic.png), url(../images/grid_mobile.png), #800080;
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 70%, 95% 100%, cover;
     background-position: right, center, center;
@@ -680,6 +710,12 @@ body i {
     background-size: 85%, cover, cover;
     background-position: 50% 25%, center, center;
   }
+  #sectionLenovo {
+    background: url(../images/gradPic.png), url(../images/grid.png), #800080;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 85%, cover, cover;
+    background-position: 50% 25%, center, center;
+  }
   .contain {
     display: flex;
     flex-direction: column;
@@ -869,6 +905,12 @@ body i {
   }
   #section2aa {
     background: url(../images/docPic.png), url(../images/grid_mobile.png), #007d8a;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 85%, 90%, cover;
+    background-position: 50% 25%, center, center;
+  }
+  #sectionLenovo {
+    background: url(../images/gradPic.png), url(../images/grid_mobile.png), #800080;
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 85%, 90%, cover;
     background-position: 50% 25%, center, center;
